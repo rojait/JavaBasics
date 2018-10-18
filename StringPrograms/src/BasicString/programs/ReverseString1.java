@@ -27,5 +27,6 @@ public class ReverseString1 {
 }
 
 /*
- * output:- gnidoCavaJ
+ * Input:- JavaCoding
+ * Output:- gnidoCavaJ
  */
