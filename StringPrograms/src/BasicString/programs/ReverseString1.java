@@ -25,3 +25,7 @@ public class ReverseString1 {
 	}
 
 }
+
+/*
+ * output:- gnidoCavaJ
+ */
