@@ -63,3 +63,18 @@ public class StringCreation {
 	}
 
 }
+
+/*Output:- 
+ * s1 == s2------>False
+s3 == s4 ----->True
+s1 == s3------>False
+s2 == s4-------->False
+-------------------
+s1.equals(s2)------> True
+s3.equals(s4) ----->True
+s1.equals(s3)------>True
+s2.equals(s4)-------->True
+
+ */
+ 
+
