@@ -42,3 +42,21 @@ public class StringBufferDemo {
 	}
 
 }
+
+/*
+ Output:-
+ Java Programming
+Hello Java Programming
+OOPS  Java Programming
+  Java Programming
+gnimmargorP avaJ  
+
+String buffer capacity Before:-
+22
+Hello Java is a programming language 
+
+string buffer capacity After:- 
+46
+Hello Java is a programming language ,OOPS Concepts 
+
+ */
