@@ -33,4 +33,8 @@ public class PalindromeNumberString {
 
 	}
 }
-
+/*
+ * Enter a string/number to check if it is a palindrome 
+545
+Entered string/number is a palindrome.
+*/
