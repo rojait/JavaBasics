@@ -2,7 +2,7 @@ package Com.collections;
 
 import java.util.Hashtable;
 import java.util.Map;
-//https://www.geeksforgeeks.org/hashtable-in-java/
+
 public class HashTableDemo {
 
 	public static void main(String[] args) {
