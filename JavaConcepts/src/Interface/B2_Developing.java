@@ -1,4 +1,4 @@
-package Java3_Interface;
+package Interface;
 
 public class B2_Developing implements B1_BankingClient, B3_DomainClient
 // Now this class is responsible for all the methods of the banking client interface

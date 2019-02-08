@@ -1,4 +1,4 @@
-package Java3_Interface;
+package Interface;
 
 
 public interface B1_BankingClient
